@@ -1,0 +1,6 @@
+Flask-Login==0.4.1
+pyopenssl==17.2.0
+pydispatch==1.1.0
+PyDispatcher==2.0.5
+zlib-wrapper==0.1.3
+iptools==0.7.0
